@@ -4,6 +4,10 @@ body {
   background-color: bisque;
 }
 
+button:hover {
+  cursor: pointer;
+}
+
 .content {
   display: flex;
   flex-direction: column;
